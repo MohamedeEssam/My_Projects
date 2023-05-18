@@ -4,7 +4,6 @@
 
 
 
-<table>
   <tbody>
       <tr align="center"> 
 		<th><strong>Human Action Recognition In Real Time</strong></th>
@@ -15,7 +14,6 @@
         </td>
       </tr>type="video/mp4">
       </tbody>
-</table>
 
 
 
